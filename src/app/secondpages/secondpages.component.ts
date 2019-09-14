@@ -19,7 +19,7 @@ export class SecondpagesComponent implements OnInit {
     }
   };
 
-  public barChartLabels: Label[] = ['Quater 1', 'Quater 2', 'Quater 3', 'Quater 4'];
+  public barChartLabels: Label[] = ['QUATER1 1', 'QUATER 2', 'QUATER 3', 'QUATER 4'];
   public barChartType: ChartType = 'bar';
   public barChartLegend = true;
 
